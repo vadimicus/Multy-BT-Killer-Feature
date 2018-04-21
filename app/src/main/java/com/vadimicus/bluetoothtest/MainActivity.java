@@ -459,6 +459,7 @@ public class MainActivity extends AppCompatActivity {
                         }
                     });
 
+                    
                     changeStatus = true;
 
                 } else if (isReceiving){
